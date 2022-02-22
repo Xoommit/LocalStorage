@@ -1,4 +1,4 @@
-// Get data from the HTML file  
+// Get data from the HTML file. 
 const inpKey = document.getElementById('inpKey');
 const inpValue = document.getElementById('inpValue');
 const btnInsert = document.getElementById('btnInsert');
